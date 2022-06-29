@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Youez # author name
+  name: Bay's # author name
   bio: >- # tell to the world
     Software Engineering Student, Computer Geek, & <a href="https://linuxploit.com" target="_blank" rel="noopener">@LinuXploit</a> Founder.
   username: youez # general username
