@@ -7,8 +7,10 @@ description: IPsec/XAuth mode is also called "Cisco IPsec". This mode is general
 image: "https://rtd.ditatompel.com/content/images/size/w2000/2019/06/tyler-franta-iusJ25iYu1c-unsplash-cisco.jpg"
 ---
 
+![image1][https://rtd.ditatompel.com/content/images/size/w2000/2019/06/tyler-franta-iusJ25iYu1c-unsplash-cisco.jpg]
+
 IPsec/XAuth mode is also called "Cisco IPsec". This mode is generally faster than IPsec/L2TP with less overhead. IPsec/XAuth ("Cisco IPsec") is natively supported by Android, iOS, and MacOS. There is no additional software to install for them.
 
 Notes : You should upgrade Libreswan to the latest version due to IKEv1 informational exchange packets not integrity checked (CVE-2019-10155)
 
-As a prerequisite to using this guide, and before continuing, you must make sure that you have successfully _set up your own IPsec VPN server_. Following these steps allow you to configure your Android, iOS, MacOS, and Linux machine *using IPsec/XAuth ("Cisco IPsec").*
+As a prerequisite to using this guide, and before continuing, you must make sure that you have successfully _set up your own IPsec VPN server_. Following these steps allow you to configure your Android, iOS, MacOS, and Linux machine **using IPsec/XAuth ("Cisco IPsec").**
