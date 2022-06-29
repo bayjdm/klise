@@ -1,6 +1,6 @@
 ---
-title: configure-ipsec-xauth-vpn-clients
-date: 2020-01-25 11:58:47 +07:00
+title: Configure IPsec/XAuth VPN Clients
+date: 2022-06-29 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
 tags: [snippets]
 description: IPsec/XAuth mode is also called "Cisco IPsec". This mode is generally faster than IPsec/L2TP with less overhead. IPsec/XAuth ("Cisco IPsec")
