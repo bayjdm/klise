@@ -7,7 +7,7 @@ description: IPsec/XAuth mode is also called "Cisco IPsec". This mode is general
 image: "https://rtd.ditatompel.com/content/images/size/w2000/2019/06/tyler-franta-iusJ25iYu1c-unsplash-cisco.jpg"
 ---
 
-![image1](https://rtd.ditatompel.com/content/images/size/w2000/2019/06/tyler-franta-iusJ25iYu1c-unsplash-cisco.jpg)
+<img src="https://rtd.ditatompel.com/content/images/size/w2000/2019/06/tyler-franta-iusJ25iYu1c-unsplash-cisco.jpg" height="200px">
 
 IPsec/XAuth mode is also called "Cisco IPsec". This mode is generally faster than IPsec/L2TP with less overhead. IPsec/XAuth ("Cisco IPsec") is natively supported by Android, iOS, and MacOS. There is no additional software to install for them.
 
