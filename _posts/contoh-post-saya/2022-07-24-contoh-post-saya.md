@@ -13,10 +13,6 @@ image: "https://urbayz.com/assets/img/favicon/logo.jpg"
 
 > asdasdasdasdasdasda
 
-<center>
-<img src="https://urbayz.com/assets/img/favicon/logo.jpg" height="300px">
-</center>
-
 - list 1
 
 - list 2
